@@ -1,16 +1,21 @@
 # example page
 
-Some inline math \(e=mc^2\)
+Some inline math {: raw :}\(e=mc^2\){: endraw :}
+
+
+Some inline math \\(e=mc^2\\)
 
 
 some display math
-\[
+ {: raw :}
+ \[
 \frac{x+y}{y+z}\begin{pmatrix}1&2\\3&4\\5&6\end{pmatrix}
 \]
-
+{: endraw :}
 
 
 Some Java
+
 
 ```java
 public class HelloWorld {
