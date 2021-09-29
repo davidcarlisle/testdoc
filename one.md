@@ -32,3 +32,21 @@ Some more text with a list
 * two
 * three
 
+
+
+<details>
+<summary>
+
+a summary with **bold**
+
+</summary>
+
+a list
+
+
+* one
+* two
+* three
+
+</details>
+
