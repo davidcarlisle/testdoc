@@ -48,7 +48,7 @@ a list
 </details>
 
 
-<details>
+<details markdown=1>
 <summary>a summary with <b>html bold</b></summary>
 
 a list
@@ -57,7 +57,6 @@ a list
 * aaa
 * bbbb
 * ccc
-* ddd
 
 </details>
 
