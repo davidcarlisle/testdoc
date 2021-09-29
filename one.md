@@ -36,9 +36,9 @@ Some more text with a list
 
 <details markdown=1>
 
-<summary>a summary with **bold** </summary>
+<summary markdown=1>a summary with **bold** </summary>
 
-a list3
+a list4
 
 
 * onez
