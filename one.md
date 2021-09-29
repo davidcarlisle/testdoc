@@ -47,3 +47,16 @@ a list
 
 </details>
 
+
+<details markdown=1>
+<summary>a summary with <b>html bold</b></summary>
+
+a list
+
+
+* aaa
+* bbbb
+* ccc
+
+</details>
+
