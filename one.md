@@ -34,7 +34,7 @@ Some more text with a list
 
 
 
-<details>
+<details markdown=1>
 <summary markdown=1>
 a summary with **bold**
 </summary>
@@ -43,7 +43,7 @@ a list
 
 
 * onez
-* two
+* twoz
 * three
 
 </details>
