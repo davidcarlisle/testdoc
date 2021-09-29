@@ -35,7 +35,7 @@ Some more text with a list
 
 
 <details>
-<summary>
+<summary markdown=1>
 a summary with **bold**
 
 </summary>
