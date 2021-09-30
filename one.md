@@ -59,3 +59,36 @@ a list
 
 </details>
 
+
+## nested details
+
+with a table
+
+
+
+| a | b |
+| 1 | 2 |
+
+
+
+<details markdown=1>
+<summary>a summary for an outer details</summary>
+
+a list
+
+
+* aaa
+* bbbb
+* ccc
+
+<details markdown=1>
+<summary>nested details</summary>
+
+a nested table
+
+| a | b |
+| 1 | 2 |
+
+</details>
+
+</details>
