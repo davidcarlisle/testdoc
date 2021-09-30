@@ -81,14 +81,21 @@ a list
 * bbbb
 * ccc
 
-<details markdown=1>
-<summary>nested details</summary>
+    <details markdown=1>
+    <summary>nested details</summary>
 
-a nested table
+    a nested table
 
-| a | b |
-| 1 | 2 |
+    | a | b |
+    | 1 | 2 |
+
+    </details>
+
+* ddd
 
 </details>
 
-</details>
+
+## more markdown
+
+zzz
