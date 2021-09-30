@@ -98,4 +98,4 @@ a list
 
 ## more markdown
 
-zzz
+zzz  <span style="color:red">red</span>
