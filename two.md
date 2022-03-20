@@ -12,18 +12,18 @@ layout: wgnote
 
 </nav>
 
-<section>
+<section markdown="1">
 ## sec a
 
 some text
 
-<section>
+<section markdown="1">
 ### sec a1
 
 some text
 </section>
 
-<section>
+<section markdown="1">
 ### sec a1
 
 some text
