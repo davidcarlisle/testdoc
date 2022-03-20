@@ -12,14 +12,20 @@ layout: wgnote
 
 </nav>
 
-# sec a
+<section>
+## sec a
 
 some text
 
-## sec a1
+<section>
+### sec a1
 
 some text
+</section>
 
-## sec a1
+<section>
+### sec a1
 
 some text
+</section>
+</section>
