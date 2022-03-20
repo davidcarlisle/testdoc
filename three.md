@@ -2,7 +2,7 @@
 <title>Using Markdown</title>
   <script
       src='https://www.w3.org/Tools/respec/respec-w3c'
-      class='remove'>
+      class='remove'
   </script>
 <script class="remove">
 var respecConfig = {
