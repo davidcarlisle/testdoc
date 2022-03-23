@@ -1,4 +1,7 @@
+<!DOCTYPE html>
 <html>
+<head>
+ <meta charset="UTF-8">
 <title>Using Markdown</title>
 <script>
 var respecConfig = {
@@ -23,12 +26,27 @@ Custom paragraph.
 
 </section>
 
-## This is a heading
+
+## Top level markdown
+
+
+**<code>&</code>**  
+Right Arrow U+2192 is `→` or `&rightarrow;` or `&#x2192;`
+
+
+**<code>&</code><code>amp;</code>**  
+Right Arrow U+2192 is `→` or `&amp;rightarrow;` or `&amp;#x2192;`
+
+
+**<code>&</code><code>amp;amp;</code>**  
+Right Arrow U+2192 is `→` or `&amp;amp;rightarrow;` or `&amp;amp;#x2192;`
 
 I'm a paragraph.
 
  * list item
  * another list item
+
+<div data-include="respec-include.md" data-include-replace="true" data-include-format="markdown"></div>
 
 </body>
 </html>
