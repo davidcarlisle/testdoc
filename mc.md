@@ -1,5 +1,23 @@
+
+
+<style>
+  
+  img.cat {position: relative; top: 16px; z-index: -1}
+  
+  p.try {color:red}
+  
+</style>
+
 # MathCAT: Math Capable Assistive Technology
-<img src="logo.png" style="position: relative; top: 16px; z-index: -1;">
+  
+<img src="logo.png" class="cat">
+
+<p class="try">
+  
+  abc
+  
+</p>
+
 is a library that supports conversion of MathML to:
 
 * Speech strings with embedded speech engine commands
