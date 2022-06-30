@@ -5,12 +5,7 @@
   
 
 
-<span class="background-image:url('logo.png')">
-
-MathCAT
-
-</span>
-
+<span style="background-image:url('logo.png')">MathCAT</span>
 is a library that supports conversion of MathML to:
 
 * Speech strings with embedded speech engine commands
