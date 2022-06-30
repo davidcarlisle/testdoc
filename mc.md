@@ -5,7 +5,13 @@
   
 
 
-<span class="background-image:url('logo.png')"MathCAT</span> is a library that supports conversion of MathML to:
+<span class="background-image:url('logo.png')>
+
+MathCAT
+
+</span>
+
+is a library that supports conversion of MathML to:
 
 * Speech strings with embedded speech engine commands
 * Braille (Nemeth, UEB Technical, and eventually other braille math codes)
