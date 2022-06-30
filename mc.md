@@ -5,7 +5,7 @@
   
 
 
-<span class="background-image:url('logo.png')>
+<span class="background-image:url('logo.png')">
 
 MathCAT
 
